@@ -1,5 +1,5 @@
 {
-    "requests": 1987586,
+    "requests": 1987587,
     "logs": [
         {
             "ip": "8.8.8.8",
@@ -11,6 +11,24 @@
             "proveedor": "Google LLC",
             "dispositivo": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36",
             "fecha": "2025-02-09T13:27:34.181Z"
+        },
+        {
+            "ip": "8.8.8.8",
+            "pais": "United States",
+            "region": "Virginia",
+            "ciudad": "Ashburn",
+            "codigo_postal": "20149",
+            "latitud": 39.03,
+            "longitud": -77.5,
+            "proveedor": "Google LLC",
+            "organizacion": "AS15169 Google LLC",
+            "zona_horaria": "America/New_York",
+            "moneda": "USD",
+            "sistema_operativo": "Linux",
+            "navegador": "Chrome",
+            "dispositivo": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Mobile Safari/537.36",
+            "fecha": "2025-02-09T13:29:39.109Z",
+            "hora_local": "9/2/25, 8:29"
         }
     ]
 }
